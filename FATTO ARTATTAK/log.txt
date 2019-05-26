@@ -1,0 +1,222 @@
+Unable to bind
+Unable to bind
+The server is up on 5002 port Date: 26/5/2019 Ora :(20:20:34)
+Nuova Connessione Da : (127.0.0.1,39152)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:20:56)
+Nuovo utente registrato con a:a
+ in data : 26/5/2019 Ora :(20:20:58)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:21:0)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|         #          |
+|O                   |
+|                    |
+|               #    |
+|                    |
+|                    |
+|                    |
+|                    |
+|            #       |
+|                    |
+|                    |
+|                    |
+|       #            |
+|     #              |
+| #          #       |
+|                    |
+|                    |
+|                    |
+---------------------
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:21:23)
+Nuova Connessione Da : (127.0.0.1,40038)
+Nuova Connessione Da : (127.0.0.1,40040)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:21:47)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|           #        |
+|O                   |
+|                    |
+|         #          |
+|                    |
+|                    |
+|                    |
+|        #           |
+|                    |
+|            #       |
+|                #   |
+|        #           |
+|                    |
+|  #                 |
+|    #               |
+|                    |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:21:49)
+Nuovo utente registrato con b:b
+ in data : 26/5/2019 Ora :(20:21:51)
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:21:54)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:22:16)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:24:2)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:24:25)
+Nuova Connessione Da : (127.0.0.1,40050)
+Nuova Connessione Da : (127.0.0.1,40052)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:24:32)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|         #          |
+|                    |
+|                    |
+|                    |
+|                    |
+|                 #  |
+|O                   |
+|            #       |
+| #             #    |
+|                    |
+|                    |
+|                    |
+|             #      |
+|           #    #   |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:24:34)
+Utente b Disconnesso in Data 26/5/2019 Ora :(20:25:34)
+Utente non loggato disconnesso in maniera anomala in Data 26/5/2019 Ora :(20:25:35)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:25:40)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:27:51)
+Nuova Connessione Da : (127.0.0.1,40056)
+Nuova Connessione Da : (127.0.0.1,40058)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:28:19)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:28:21)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|O# #                |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|         #          |
+|                    |
+|                    |
+|  #     #           |
+|                #   |
+|           #        |
+|                    |
+|   #                |
+|                    |
+|                    |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:28:24)
+Nuovo utente registrato con 
+ in data : 26/5/2019 Ora :(20:28:38)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:29:9)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:29:10)
+Nuova Connessione Da : (127.0.0.1,40068)
+Nuova Connessione Da : (127.0.0.1,40070)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:31:46)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:31:58)
+Nuova Connessione Da : (127.0.0.1,40072)
+Nuova Connessione Da : (127.0.0.1,40074)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:32:4)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|       #            |
+|                    |
+|                    |
+|               #    |
+|                    |
+|                    |
+|                 #  |
+|O                   |
+|          #         |
+|                    |
+|       #            |
+| #                  |
+|                    |
+|   #                |
+|                    |
+|  #                 |
+|                    |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:32:6)
+Utente b Disconnesso in Data 26/5/2019 Ora :(20:32:25)
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:32:34)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:32:51)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:32:52)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:34:54)
+Nuova Connessione Da : (127.0.0.1,40082)
+Nuova Connessione Da : (127.0.0.1,40084)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:35:11)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|O        #          |
+|  #                 |
+|            #       |
+|            #       |
+|                    |
+|                    |
+|        #           |
+|       #            |
+|         #          |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+| #                  |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:35:12)
+Errore di comunicazione con client in Data 26/5/2019 Ora :(20:36:6)
+The server is up on 6000 port Date: 26/5/2019 Ora :(20:37:11)
+Nuova Connessione Da : (127.0.0.1,40090)
+Nuova Connessione Da : (127.0.0.1,40092)
+L'utente a si e' connesso in data : 26/5/2019 Ora :(20:37:27)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|O                   |
+|                    |
+|                    |
+|                    |
+|                    |
+|            #       |
+|           #        |
+|                    |
+|         #          |
+|                    |
+|                    |
+|         #        # |
+|                    |
+|                    |
+|                    |
+|    #               |
+|    #               |
+|             #      |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 26/5/2019 Ora :(20:37:29)
+Utente non loggato disconnesso in maniera anomala in Data 26/5/2019 Ora :(20:45:44)
+Errore read
