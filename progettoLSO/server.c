@@ -577,7 +577,7 @@ ciclo termina quando flag = 0 */
 				pthread_mutex_lock(&mymutex);//blocco il mutex
 				deallocaUtente(Ut);
 				Ut=NULL;
-				flag=0; //termina partita x tutti
+				flag = 0;
 				pthread_mutex_unlock(&mymutex);//sblocco il mutex
 			}
 
@@ -637,7 +637,7 @@ ciclo termina quando flag = 0 */
 				pthread_mutex_lock(&mymutex);//blocco il mutex
 				deallocaUtente(Ut);
 				Ut=NULL;
-				flag=0; //termina partita x tutti
+				flag = 0;
 				pthread_mutex_unlock(&mymutex);//sblocco il mutex
 			}
 			//se non ho vinto , e il tempo è in corso
@@ -698,7 +698,7 @@ ciclo termina quando flag = 0 */
 				pthread_mutex_lock(&mymutex);//blocco il mutex
 				deallocaUtente(Ut);
 				Ut=NULL;
-				flag=0; //termina partita x tutti
+				flag = 0;
 				pthread_mutex_unlock(&mymutex);//sblocco il mutex
 			}
 			//se non ho vinto , e il tempo è in corso
@@ -769,8 +769,9 @@ ciclo termina quando flag = 0 */
 				pthread_mutex_lock(&mymutex);//blocco il mutex
 				deallocaUtente(Ut);
 				Ut=NULL;
-				flag=0; //termina partita x tutti
+				flag = 0;
 				pthread_mutex_unlock(&mymutex);//sblocco il mutex
+				
 			}
 
 		
@@ -870,7 +871,7 @@ ciclo termina quando flag = 0 */
 	utentiInGioco--;
 	pthread_mutex_unlock(&mymutex);
 	Ut=EliminaScollegato(Ut,Nick);
-	if(vittoria==1 || terminata==1){
+	if(vittoria==1 || terminata == 1){
 		if(pthread_create(&tredServer,NULL,GeneraMapp,NULL) < 0){
         	errore("Errore Thread\n");
         }

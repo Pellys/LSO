@@ -2136,3 +2136,178 @@ Nuova mappa generata in data
 L'utente b si e' connesso in data : 6/6/2019 Ora :(9:40:46)
 L'utente a si e' connesso in data : 6/6/2019 Ora :(9:40:48)
 Errore di comunicazione con client in Data 6/6/2019 Ora :(9:40:51)
+The server is up on 5000 port Date: 6/6/2019 Ora :(9:54:46)
+Nuova Connessione Da : (127.0.0.1,44726)
+Nuova Connessione Da : (127.0.0.1,44728)
+L'utente a si e' connesso in data : 6/6/2019 Ora :(9:55:1)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|         #          |
+|                    |
+| #                  |
+|       #            |
+|O                   |
+| #                  |
+|                    |
+|                    |
+|                    |
+|    #               |
+|     #              |
+|                    |
+|                    |
+|                #   |
+|  #                 |
+|                    |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 6/6/2019 Ora :(9:55:2)
+L'utente a si e' connesso in data : 6/6/2019 Ora :(9:55:35)
+Errore di comunicazione con client in Data 6/6/2019 Ora :(9:55:39)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|             The server is up on 5000 port Date: 6/6/2019 Ora :(9:59:21)
+Nuova Connessione Da : (127.0.0.1,44778)
+Nuova Connessione Da : (127.0.0.1,44780)
+L'utente b si e' connesso in data : 6/6/2019 Ora :(9:59:32)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|               #    |
+|                    |
+|       #            |
+|                    |
+|              #     |
+|O      #            |
+|                    |
+|                    |
+|                    |
+|             #      |
+|                    |
+|           #        |
+|       #            |
+|                    |
+|                    |
+|                    |
+|     #              |
+|                    |
+---------------------
+L'utente a si e' connesso in data : 6/6/2019 Ora :(9:59:34)
+Errore di comunicazione con client in Data 6/6/2019 Ora :(9:59:59)
+The server is up on 5000 port Date: 6/6/2019 Ora :(10:1:24)
+The server is up on 5000 port Date: 6/6/2019 Ora :(10:2:44)
+Nuova Connessione Da : (127.0.0.1,44786)
+Nuova Connessione Da : (127.0.0.1,44788)
+L'utente a si e' connesso in data : 6/6/2019 Ora :(10:2:56)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|               #    |
+|                    |
+|O#                  |
+|       #            |
+|                    |
+|                    |
+|                    |
+|                    |
+|   #                |
+|                    |
+|                    |
+|            #       |
+|     #              |
+|                    |
+|                    |
+|                    |
+|     #        #     |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 6/6/2019 Ora :(10:2:57)
+Nuova mappa generata in data 
+------------l--------
+|            The server is up on 5000 port Date: 6/6/2019 Ora :(10:7:53)
+Nuova Connessione Da : (127.0.0.1,44898)
+Nuova Connessione Da : (127.0.0.1,44900)
+L'utente a si e' connesso in data : 6/6/2019 Ora :(10:8:7)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|O                   |
+|                    |
+|                    |
+|                    |
+| #             # #  |
+| #            #     |
+|                    |
+|                    |
+|                    |
+|  #               # |
+|                    |
+|                  # |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 6/6/2019 Ora :(10:8:9)
+Nuova mappa generata in data 
+------------l--------
+|                    |
+|                    |
+|                    |
+|         #          |
+|                    |
+|  #             #   |
+|                    |
+|             #      |
+|                    |
+|                    |
+|                    |
+|                #   |
+| #                  |
+|        #    #      |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+---------------------
+Errore di comunicazione con client in Data 6/6/2019 Ora :(10:8:17)
+Errore di comunicazione con client in Data 6/6/2019 Ora :(10:8:19)
+The server is up on 5000 port Date: 6/6/2019 Ora :(10:8:48)
+Nuova Connessione Da : (127.0.0.1,44902)
+Nuova Connessione Da : (127.0.0.1,44904)
+L'utente a si e' connesso in data : 6/6/2019 Ora :(10:9:1)
+Nuova mappa generata in data 
+------------l--------
+|O                   |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|        #           |
+|                    |
+|                 #  |
+|              #     |
+|                    |
+|                    |
+|       #            |
+|            #       |
+|                    |
+|   #   #            |
+|                    |
+|                #   |
+|                    |
+|                    |
+---------------------
+L'utente b si e' connesso in data : 6/6/2019 Ora :(10:9:2)
+Errore di comunicazione con client in Data 6/6/2019 Ora :(10:9:7)
